@@ -1,0 +1,12 @@
+.bash_history
+.cache
+.motd_shown
+.viminfo
+.wget-hsts
+.lesshst
+.ssh
+.npm
+.ionic
+.local
+.config/lazygit/*.yml
+!.config/nvim/*

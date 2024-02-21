@@ -1,0 +1,16 @@
+[alias]
+	st = status
+	ci = commit
+	br = branch
+	df = diff
+	lg = log --color --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold blue)<%an>%Creset' --abbrev-commit
+	fp = fetch --prune
+	ps = push
+	co = checkout
+	pl = pull
+	mg = merge
+[core]
+	editor = vim
+[user]
+	name = lwq
+	email = liuweiqiang316@163.com
